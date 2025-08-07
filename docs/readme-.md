@@ -1,4 +1,3 @@
-
 <!-- Banner Image -->
 <div align="center">
   <img src="./assets/fewinfos-banner.png" alt="Welcome to FEWINFOS Contribution - GitHub Repository Stats Widget" width="100%">
@@ -40,7 +39,6 @@
 - **Chart.js** – グラフとチャートの描画 (オプション)
 
 ---
-
 ## 📊 利用可能なウィジェット
 
 ### 🔍 リポジトリ統計
@@ -92,22 +90,18 @@
 - 🔗 関連リポジトリウィジェット  
 - 🪄 ウィジェットの iframe / HTML 埋め込みとしてのエクスポート
 
----
-
 ## 📂 プロジェクト構成
 
+```
 github-repo-stats-widget/
-├── index.html # メイン HTML ファイル
-├── style.css # CSS スタイル
-├── repo.js # コア JavaScript ロジック
-├── charts.js # チャート描画ロジック
-├── assets/ # アイコン、スクリーンショット
-├── README.md # このドキュメントファイル
-└── LICENSE # MIT ライセンス
-
-markdown
-Copy code
-
+├── index.html         # メイン HTML ファイル
+├── style.css          # CSS スタイル
+├── repo.js            # コア JavaScript ロジック
+├── charts.js          # チャート描画ロジック
+├── assets/            # アイコン、スクリーンショット
+├── README.md          # このドキュメントファイル
+└── LICENSE            # MIT ライセンス
+```
 ---
 
 ## 🚀 デプロイ
